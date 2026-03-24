@@ -10,11 +10,11 @@ Welcome to my Netflix Clone project! This is a high-fidelity front-end replica o
 * *Demo:* [View Live Demo]()
 
 ## 🛠️ Technical Implementation
-*Grid & Flexbox:* Used for the multi-column footer and complex feature sections.
+* *Grid & Flexbox:* Used for the multi-column footer and complex feature sections.
 
-*Responsive Design:* Optimized for Mobile, Tablet, and Desktop views using custom breakpoints.
+* *Responsive Design:* Optimized for Mobile, Tablet, and Desktop views using custom breakpoints.
 
-*Video Integration:* Seamless background video playback for the "Enjoy on your TV" section.
+* *Video Integration:* Seamless background video playback for the "Enjoy on your TV" section.
 
-*Interactive FAQ:* Custom JavaScript logic to toggle questions and animate the plus (+) icon.
+* *Interactive FAQ:* Custom JavaScript logic to toggle questions and animate the plus (+) icon.
 

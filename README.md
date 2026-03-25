@@ -7,7 +7,7 @@ Welcome to my Netflix Clone project! This is a high-fidelity front-end replica o
 * *Key Features:*  Modern Dark UI, Dynamic FAQ Accordion, Email Validation logic, and Hover effects.
 * *Use Case:*  Serves as a technical demonstration of handling complex CSS layouts, background overlays, and media embedding (Video/Autoplay).
 * *Technologies:* HTML5, CSS3 (Custom Properties & Media Queries), JavaScript (ES6+), and Google Fonts.
-* *Demo:* [View Live Demo](https://lakshy-bharadwaj24.github.io/Netflix_Clone/)
+* *Demo:* [View Live Demo](https://net-watch.netlify.app/)
 
 ## 🛠️ Technical Implementation
 * *Grid & Flexbox:* Used for the multi-column footer and complex feature sections.
